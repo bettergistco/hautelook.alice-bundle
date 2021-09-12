@@ -1,6 +1,6 @@
 {
-    "name": "hautelook/alice-bundle",
-    "description": "Symfony bundle to manage fixtures with Alice and Faker.",
+    "name": "bettergist/hautelook-alice-bundle",
+    "description": "An archive of the now-lost Symfony bundle to manage fixtures with Alice and Faker. Archived by the Bettergist Collective.",
     "keywords": ["Symfony", "Fixture", "ORM", "Alice", "Faker"],
     "type": "symfony-bundle",
     "license": "MIT",
